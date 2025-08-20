@@ -1,5 +1,5 @@
 README
-# Repositório para o trabalho no semestre
+# Repositório para o trabalho do semestre
 
 ## 👨‍💻 Desenvolvedores
 - Marcos Vinicius Nascimento Pinto
