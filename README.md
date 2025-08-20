@@ -4,6 +4,6 @@ README
 ## 👨‍💻 Desenvolvedores
 - Luís Arthur Belli Fernandes
 - Marcos Vinicius Nascimento Pinto
-- Rafael Ferretti
+- Rafael Rangel Ferretti
 
 ---------------------------------------------------------------------------------------
