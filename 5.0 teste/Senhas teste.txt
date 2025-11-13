@@ -1,0 +1,3 @@
+admin@admin.com / 123456
+
+cliente@teste.com / 123456

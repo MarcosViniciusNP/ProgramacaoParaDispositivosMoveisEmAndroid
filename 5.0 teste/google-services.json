@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912544459569",
+    "project_id": "wm-trade-catalogo",
+    "storage_bucket": "wm-trade-catalogo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912544459569:android:f30daf0f435714e8a89e10",
+        "android_client_info": {
+          "package_name": "com.WMTradeCatalogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtiyGM8J9NPMt2tmy71njDa3q0y8rUpBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
